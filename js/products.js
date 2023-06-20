@@ -1,0 +1,30 @@
+const productos = [
+    { 
+      id: 1, 
+      nombre: 'Cerveza', 
+      precio: 40,
+      img: "/img/cerveza.png",
+      cantidad: 1,
+    },
+    { 
+      id: 2, 
+      nombre: 'Harina', 
+      precio: 30,
+      img: "/img/harina.png",
+      cantidad: 1,
+    },
+    { 
+      id: 3, 
+      nombre: 'Naranjas', 
+      precio: 20,
+      img: "/img/naranja.png",
+      cantidad: 1,
+    },
+    { 
+      id: 4, 
+      nombre: 'Leche', 
+      precio: 10,
+      img: "/img/leche.png", 
+      cantidad: 1,
+    },
+  ];
